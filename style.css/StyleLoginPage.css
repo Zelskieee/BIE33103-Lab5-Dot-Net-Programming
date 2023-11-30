@@ -1,0 +1,81 @@
+﻿body {
+}
+
+.auto-style1 {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.auto-style2 {
+    text-align: center;
+    font-size: large;
+}
+
+.auto-style3 {
+    text-align: center;
+    font-size: x-large;
+}
+
+#Image1 {
+    display: block;
+    margin: 0 auto;
+    width: 138px;
+    height: 142px;
+}
+
+.image-container {
+    margin-left: 620px;
+}
+
+#TextBox1 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.labelid-container {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 535px;
+}
+
+.textboxid-container {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 100px;
+}
+
+    .textboxid-container:hover {
+        background-color: aliceblue;
+    }
+
+.labelpw-container {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 535px;
+}
+
+.textboxpw-container {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 33px;
+}
+
+    .textboxpw-container:hover {
+        background-color: aliceblue;
+    }
+
+.submitbtn-container {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 605px;
+}
+
+.cancelbtn-container {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 50px;
+}
+
+.status-container {
+    margin-left: 600px;
+}
